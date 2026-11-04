@@ -1,0 +1,5 @@
+# db1: expenses_auto
+
+auto.url = jdbc:postgresql://localhost:5432/expenses_auto
+auto.user = expenses_lab03
+auto.password =
